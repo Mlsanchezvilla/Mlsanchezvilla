@@ -21,4 +21,4 @@ Pensamiento crítico
 Proactividad
 
 📫 Conéctate conmigo
-LinkedIn:
+LinkedIn: www.linkedin.com/in/mónica-lorena-sánchez-villa-5aaa2b26b
