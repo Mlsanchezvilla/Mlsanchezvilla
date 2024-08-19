@@ -1,4 +1,4 @@
-👋 Hola, soy Mónica
+👋 # Hola, soy Mónica  <!-- Encabezado más grande (H1) -->
 
 🎯Soy un desarrollador Full Stack apasionado por la tecnología y el desarrollo de aplicaciones web. Mi enfoque principal está en crear soluciones eficientes, 
 intuitivas y escalables tanto en el Front-end como en el Back-end.
