@@ -14,7 +14,7 @@
 
  ## 🌟Habilidades Blandas (Soft Skills)
 - Comunicación efectiva
--  ✔️Trabajo en equipo
+✔️ Trabajo en equipo
 - Resolución de problemas
 - Adaptabilidad
 - Pensamiento crítico
